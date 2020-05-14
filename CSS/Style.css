@@ -245,7 +245,7 @@ main .blog-content .blog-title{
 main .blog-content .btn-blog{
     padding: .7rem 2rem;
     background: var(--sky);
-    margin-top: -2rem;
+    margin-top: -2.5rem;
 }
 
 main .blog-content span{
