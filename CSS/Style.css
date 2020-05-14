@@ -190,7 +190,7 @@ main .site-title .site-background{
 }
 
 main .site-title h1,h3{
-    margin: 3rem;
+    margin: 2.5rem;
 }
 
 main .site-title .btn{
@@ -237,7 +237,8 @@ main .blog-post .blog-content{
 
 main .blog-content .blog-title{
     padding: 1rem 0;
-    margin-top: -2rem;
+    margin-top: -2.5rem;
+    margin-bottom: -1rem;
    
 }
 
