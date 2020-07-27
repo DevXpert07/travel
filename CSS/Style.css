@@ -174,7 +174,7 @@ padding: 1.7rem 0;
 
 /* Site Title */
 main .site-title{
-    background:linear-gradient( rgba(0, 0, 0, 7), rgba(0, 0, 0, 0) ), url(../img/Corusel/barcelona1.jpeg);
+    background:linear-gradient( rgba(0, 0, 0, 7), rgba(0, 0, 0, 0) ), url(../img/Corusel/barcelona1.jpg);
     background-size: cover;
     background-position:center;
     height:96vh;
